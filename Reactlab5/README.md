@@ -25,7 +25,6 @@ npm run dev
 
 4. Приложение откроется по адресу `http://localhost:5137`.
 
-> Убедитесь, что ваш API доступен по адресу вида `https://67faa9908ee14a5426284ec6.mockapi.io/products`.
 
 ---
 
