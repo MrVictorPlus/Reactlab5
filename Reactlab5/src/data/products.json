@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Футболка Classic",
+      "description": "Хлопковая футболка с круглым вырезом.",
+      "price": 1200,
+      "image": "../images/tshirt.jpg",
+      "category": "Футболки",
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 2,
+      "name": "Джинсы Slim Fit",
+      "description": "Узкие джинсы из денима.",
+      "price": 3200,
+      "image": "../images/jeans.jpg",
+      "category": "Джинсы",
+      "sizes": ["28", "30", "32", "34"]
+    },
+    {
+      "id": 3,
+      "name": "Куртка Oversize",
+      "description": "Стильная куртка свободного кроя, утепленная.",
+      "price": 7500,
+      "image": "../images/jacket.jpg",
+      "category": "Куртки",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "name": "Кроссовки Air Run",
+      "description": "Удобные кроссовки для спорта и прогулок.",
+      "price": 5800,
+      "image": "../images/sneakers.jpg",
+      "category": "Обувь",
+      "sizes": ["39", "40", "41", "42", "43"]
+    }
+  ]
+  
