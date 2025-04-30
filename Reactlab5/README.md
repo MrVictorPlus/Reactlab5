@@ -23,7 +23,6 @@ npm install
 npm run dev
 ```
 
-4. Приложение откроется по адресу `http://localhost:5137`.
 
 
 ---
